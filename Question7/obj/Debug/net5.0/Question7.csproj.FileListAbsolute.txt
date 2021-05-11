@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\Question7.exe
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\Question7.deps.json
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\Question7.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\Question7.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\Question7.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\ref\Question7.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question7\bin\Debug\net5.0\Question7.pdb
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\ref\Question7.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.pdb
+C:\Users\Favour .O\Desktop\Assessment2\Question7\obj\Debug\net5.0\Question7.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\Question19.exe
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\Question19.deps.json
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\Question19.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\Question19.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\Question19.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\ref\Question19.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question19\bin\Debug\net5.0\Question19.pdb
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\ref\Question19.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.pdb
+C:\Users\Favour .O\Desktop\Assessment2\Question19\obj\Debug\net5.0\Question19.genruntimeconfig.cache

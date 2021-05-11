@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\Question4.exe
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\Question4.deps.json
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\Question4.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\Question4.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\Question4.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\ref\Question4.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question4\bin\Debug\net5.0\Question4.pdb
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\ref\Question4.dll
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.pdb
+C:\Users\Favour .O\Desktop\Assessment2\Question4\obj\Debug\net5.0\Question4.genruntimeconfig.cache
