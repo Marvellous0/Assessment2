@@ -30,7 +30,7 @@ namespace Question13
 
             else
             {
-                Console.Write($"{userNum} does not exist. ");
+                Console.Write($"{userNum} does not exist in the List. ");
             }
         }
     }

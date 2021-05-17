@@ -22,7 +22,7 @@ namespace Question10
             }
 
             int smallest = Numbers[0];
-            int biggest = Numbers[1];
+            int biggest = Numbers[0];
 
             for (int i = 0; i < Numbers.Count; i++)
             {
@@ -31,7 +31,7 @@ namespace Question10
                     smallestNumber = Numbers[i];
                 }
 
-                else if(Numbers[i] >= biggest)
+                if(Numbers[i] >= biggest)
                 {
                     biggestNumber = Numbers[i];
                 }
